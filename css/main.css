@@ -49,42 +49,39 @@ body {
 }
 
 .icon {
-    background: url("../img/icon_sprite.png") no-repeat;
     display: inline-block;
     margin: 5pt 5pt;
+    width: 60px;
+    height: 60px;
+    background: center no-repeat;
+    -webkit-background-size: cover;
+       -moz-background-size: cover;
+         -o-background-size: cover;
+            background-size: cover;
 }
 
 .icon:hover {
-    filter: grayscale(100%);
-    filter: url(grayscale.svg); /* Firefox 4+ */
-    filter: gray; /* IE 6-9 */
     -webkit-filter: grayscale(100%);
        -moz-filter: grayscale(100%);
         -ms-filter: grayscale(100%);
          -o-filter: grayscale(100%);
+            filter: grayscale(100%);
+            filter: gray; /* IE 6-9 */
 
 }
 
 .icon-email {
-    width: 60px;
-    height: 60px;
-    background-position: -5px -5px;
+    background-image: url("../img/icon_email.png");
 }
 
-.icon-facebook {
-    width: 60px;
-    height: 60px;
-    background-position: -75px -5px;
+.icon-github {
+    background-image: url("../img/icon_github.png");
 }
 
 .icon-google {
-    width: 60px;
-    height: 60px;
-    background-position: -145px -5px;
+    background-image: url("../img/icon_google.png");
 }
 
 .icon-twitter {
-    width: 60px;
-    height: 60px;
-    background-position: -215px -5px;
+    background-image: url("../img/icon_twitter.png");
 }
