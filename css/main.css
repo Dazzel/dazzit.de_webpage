@@ -14,16 +14,6 @@ body {
     background-color: #cfd8dc;
 }
 
-::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-::selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
 .name-section {
     padding: 15rem 0 0;
 }
