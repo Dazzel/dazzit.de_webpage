@@ -43,7 +43,7 @@ body {
 .icon {
     background: url("../img/icon_sprite.png") no-repeat;
     display: inline-block;
-    margin: 5pt auto;
+    margin: 5pt 5pt;
 }
 
 .icon:hover {
