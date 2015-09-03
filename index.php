@@ -23,7 +23,10 @@
 	</section>
 	<section class="logo-section">
 		<div class="container">
-			<img src="img/dazzit_logo.png" alt="dazzit_logo">
+			<div class="logo-head">
+				dazz<span class="logo-head-red">IT</span>
+				<span class="logo-slogan">professional programming</span>
+			</div>
 		</div>
 	</section>
 	<section class="contact-section">

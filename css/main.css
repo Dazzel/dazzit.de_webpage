@@ -27,6 +27,31 @@ body {
     text-align: center;
 }
 
+.logo-head {
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 63px;
+    color: #000;
+}
+
+.logo-head-red {
+    color: #d50000;
+}
+
+.logo-slogan {
+    position: absolute;
+    display: inline-block;
+    width: 20em;
+    font-weight: bold;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 0.1em;
+    bottom: 12px;
+    left: 2px;
+}
+
 .contact-section {
     padding: 5rem 0 0;
     text-align: center;
