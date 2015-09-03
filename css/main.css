@@ -1,0 +1,82 @@
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+
+body {
+    font-family: 'Droid Sans', sans-serif;
+    color: #212121;
+    font-size: 1em;
+    background-color: #cfd8dc;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+.name-section {
+    padding: 15rem 0 0;
+}
+
+.full-name {
+    text-align: center;
+    letter-spacing: 0.2em;
+}
+
+.logo-section {
+    text-align: center;
+}
+
+.contact-section {
+    padding: 5rem 0 0;
+    text-align: center;
+}
+
+.footer-section {
+    padding: 20rem 0 0;
+    text-align: center;
+}
+
+.icon {
+    background: url("../img/icon_sprite.png") no-repeat;
+    display: inline-block;
+    margin: 5pt auto;
+}
+
+.icon:hover {
+    filter: grayscale(100%);
+    filter: url(grayscale.svg); /* Firefox 4+ */
+    filter: gray; /* IE 6-9 */
+    -webkit-filter: grayscale(100%);
+       -moz-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+         -o-filter: grayscale(100%);
+
+}
+
+.icon-email {
+    width: 60px;
+    height: 60px;
+    background-position: -5px -5px;
+}
+
+.icon-facebook {
+    width: 60px;
+    height: 60px;
+    background-position: -75px -5px;
+}
+
+.icon-google {
+    width: 60px;
+    height: 60px;
+    background-position: -145px -5px;
+}
+
+.icon-twitter {
+    width: 60px;
+    height: 60px;
+    background-position: -215px -5px;
+}
