@@ -6,7 +6,7 @@
 	<title>dazzIT - Christian Swan</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+	<link rel="shortcut icon" href="/favicon.ico?v=PYYkMneNyQ">
 
 	<link href='https://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
 
