@@ -42,7 +42,7 @@
 					<a href="https://plus.google.com/+ChristianSwan_de/about" class="icon icon-google" target="_blank"></a>
 					<a href="https://twitter.com/dazzit_de" class="icon icon-twitter" target="_blank"></a>
 					<a href="mailto:&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#100;&#097;&#122;&#122;&#105;&#116;&#046;&#100;&#101;"
-					   class="icon icon-email" target="_blank"></a>
+					   class="icon icon-email"></a>
 				</div>
 				<div class="three columns">&nbsp;</div>
 			</div>
